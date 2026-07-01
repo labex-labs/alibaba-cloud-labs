@@ -1,5 +1,8 @@
 # Alibaba Cloud Labs
 
+> [!IMPORTANT]
+> All Alibaba Cloud Labs have been discontinued as of March 30, 2026.
+
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/vfh4Vv8B8NjB.png">
 </div>
